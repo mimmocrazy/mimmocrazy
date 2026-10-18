@@ -37,7 +37,7 @@ I am a Computer Engineering graduate and a **Cybersecurity Master's student** at
 #### ⚙️ Systems & Linux Automation
 * **[Ginseng](https://github.com/mimmocrazy/Ginseng)** — Linux sleep/lid-switch inhibitor with hardware telemetry, Tailscale web dashboard, and Telegram bot integration *(Python, Linux)*.
 * **[VPN Manager](https://github.com/mimmocrazy/vpn-manager)** — Minimalist CLI & TUI manager for OpenVPN and WireGuard tunnels on Linux with live telemetry and log streaming *(Bash)*.
-* **[command-not-found](https://github.com/mimmocrazy/command-not-found)** — Lightweight shell exit-127 helper with multi-package manager discovery, typo correction, and local validation *(Python, Bash/Zsh)*.
+* **[command-got-found](https://github.com/mimmocrazy/command-got-found)** — Lightweight shell exit-127 helper with multi-package manager discovery, typo correction, and local validation *(Python, Bash/Zsh)*.
 * **[xcol](https://github.com/mimmocrazy/xcol)** — Fast column extraction & action runner for terminal pipelines; an intuitive alternative to `awk + xargs` *(Bash/Shell)*.
 
 ---
